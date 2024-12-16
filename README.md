@@ -63,7 +63,7 @@ Before running the application, ensure you have:
 1. Clone the repository:
    ```bash
    git clone https://github.com/abelmou/RAG-Healthcare-Assistant.git
-   cd rag-healthcare-assistant
+   cd RAG-Healthcare-Assistant
    ```
 
 2. Create and activate a virtual environment (recommended):
