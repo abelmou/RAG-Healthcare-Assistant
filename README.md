@@ -101,9 +101,14 @@ Before running the application, ensure you have:
    chainlit run app_chainlit.py
    ```
 
-4. Streamlit Main Interface:
+4. Streamlit Documents Assitant :
    ```bash
    streamlit run app_streamlit.py
+   ```
+
+5. Main Interface:
+   ```bash
+   streamlit run main.py
    ```
 
 The application will be accessible through your web browser at the provided local URL.
